@@ -5,6 +5,8 @@ Olana is a high-performance, distributed platform designed to solve the critical
 
 This repository serves as a **Conceptual Architecture Showcase** of the production system, highlighting the design patterns, AI integration strategies, and scalable infrastructure decisions.
 
+![alt text](olana_landingpage.PNG)
+
 ---
 
 ## 🚀 Key Architectural Innovations
